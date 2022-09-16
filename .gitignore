@@ -1,0 +1,7 @@
+docs/
+*.txt
+*.out
+*.exe
+poisson_1D
+heat
+black_scholes
